@@ -2,6 +2,8 @@
 What is Stress?
 
 Stress is the body’s natural physical and emotional response to challenges or demands. It occurs when we feel pressure, threatened, or overwhelmed. In small amounts, stress can motivate us, but excessive stress can harm health and well-being.
+
+
 <img width="448" height="323" alt="image" src="https://github.com/user-attachments/assets/e72c4c44-9ded-4ff7-8ab1-9489d76edd7e" />
 
 
