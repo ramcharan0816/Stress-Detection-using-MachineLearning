@@ -7,6 +7,9 @@ Stress is the body’s natural physical and emotional response to challenges or 
 
 Stress Detection using Machine Learning is a smart system that examines physiological and behavioral signs to identify stress levels in real time. By using data cleaning, feature selection, and classification models, the system provides precise predictions to help with early intervention and monitoring mental wellness.
 
+**Logistic Regression** is used to classify stress levels based on input features such as physiological and behavioral indicators. It predicts the probability of stress using learned patterns from the data. The model achieved an accuracy of **around 73–75%**, making it a simple, fast, and reliable baseline for stress detection.
+
+
 Features:
 
 Real-time stress level prediction. 
