@@ -1,4 +1,4 @@
-# Stress-Detection-using-LogisticRegression
+# Stress-Detection-using-MachineLearning
 What is Stress?
 
 Stress is the body’s natural physical and emotional response to challenges or demands. It occurs when we feel pressure, threatened, or overwhelmed. In small amounts, stress can motivate us, but excessive stress can harm health and well-being.
